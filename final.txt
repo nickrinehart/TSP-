@@ -1,0 +1,26 @@
+Here are all paths with miles attached.
+
+vegas -> salt lake city -> san francisco -> seattle -> Reno: 3108 total miles
+vegas -> salt lake city -> seattle -> san francisco -> Reno: 2715 total miles
+vegas -> san francisco -> salt lake city -> seattle -> Reno: 3277 total miles
+vegas -> san francisco -> seattle -> salt lake city -> Reno: 3164 total miles
+vegas -> seattle -> salt lake city -> san francisco -> Reno: 3337 total miles
+vegas -> seattle -> san francisco -> salt lake city -> Reno: 3617 total miles
+salt lake city -> vegas -> san francisco -> seattle -> Reno: 3021 total miles
+salt lake city -> vegas -> seattle -> san francisco -> Reno: 3081 total miles
+salt lake city -> san francisco -> vegas -> seattle -> Reno: 3643 total miles
+salt lake city -> san francisco -> seattle -> vegas -> Reno: 3617 total miles
+salt lake city -> seattle -> vegas -> san francisco -> Reno: 3250 total miles
+salt lake city -> seattle -> san francisco -> vegas -> Reno: 3164 total miles
+san francisco -> vegas -> salt lake city -> seattle -> Reno: 2741 total miles
+san francisco -> vegas -> seattle -> salt lake city -> Reno: 3250 total miles
+san francisco -> salt lake city -> vegas -> seattle -> Reno: 3194 total miles
+san francisco -> salt lake city -> seattle -> vegas -> Reno: 3337 total miles
+san francisco -> seattle -> vegas -> salt lake city -> Reno: 3081 total miles
+san francisco -> seattle -> salt lake city -> vegas -> Reno: 2715 total miles
+seattle -> vegas -> salt lake city -> san francisco -> Reno: 3194 total miles
+seattle -> vegas -> san francisco -> salt lake city -> Reno: 3643 total miles
+seattle -> salt lake city -> vegas -> san francisco -> Reno: 2741 total miles
+seattle -> salt lake city -> san francisco -> vegas -> Reno: 3277 total miles
+seattle -> san francisco -> vegas -> salt lake city -> Reno: 3021 total miles
+seattle -> san francisco -> salt lake city -> vegas -> Reno: 3108 total miles
